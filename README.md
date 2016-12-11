@@ -19,3 +19,6 @@ Projekti sisuks on Nupu klikkija, mida vajutades saad koguda punkte ning liikuda
 
 3.	Võites võid uuesti alustada
 
+#GNU General Public License
+
+https://www.gnu.org/licenses/gpl-3.0.en.html
