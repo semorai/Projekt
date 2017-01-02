@@ -10,6 +10,7 @@ Võimalus on saada juhuslik arv ühest kolmeteistkümneni.
 
 1.	Käivitamisel näeb võimalust skoori suurendamiseks
 2. Saad punkte suurendada nii kaua kuni 21 on käes või oled lõhki läinud
+3. Mängid arvuti vastu. 
 
 #Kasutusjuhend
 1.	Käivita programm 
