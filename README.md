@@ -3,6 +3,8 @@
 
 #Projekti kirjeldus
 Projekti sisuks on mäng 21. Kui saad kokku 21 punkti oled võitnud. Kui läheb üle oled kaotanud.
+Võimalus on saada juhuslik arv ühest kolmeteistkümneni. 
+
 
 #Progamm töötab põhiliselt ühes aknas
 
