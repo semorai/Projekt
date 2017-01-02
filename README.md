@@ -2,20 +2,17 @@
 
 
 #Projekti kirjeldus
-Projekti sisuks on Nupu klikkija, mida vajutades saad koguda punkte ning liikuda järgmisele tasemele. Tasemeid on 5 ning igale järgnevale tasemele jõudmine läheb raskemaks.
+Projekti sisuks on mäng 21. Kui saad kokku 21 punkti oled võitnud. Kui läheb üle oled kaotanud.
 
 #Progamm töötab põhiliselt ühes aknas
 
-1.	Käivitamisel näeb esimest taset ja nuppu ning skoori
-
-2.	Teisel tasemel näeb kahte nuppu ning skoori ja nii kuni viienda tasemeni välja
-
-3.	Läbides viienda taseme kuvatakse tekst “You have won!” ja nupuke restart, mis alustab protsessi algusest.
+1.	Käivitamisel näeb võimalust skoori suurendamiseks
+2. Saad punkte suurendada nii kaua kuni 21 on käes või oled lõhki läinud
 
 #Kasutusjuhend
-1.	Käivita programm – avaneb esimene tase
+1.	Käivita programm 
 
-2.	Kliki kuni õige arv punkte on käes.
+2.	Mängi
 
 3.	Võites võid uuesti alustada
 
