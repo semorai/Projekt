@@ -2,15 +2,13 @@
 
 
 #Projekti kirjeldus
-Projekti sisuks on mäng 21. Kui saad kokku 21 punkti oled võitnud. Kui läheb üle oled kaotanud.
-Võimalus on saada juhuslik arv ühest kolmeteistkümneni. 
+Projekti sisuks on tavaline kabe ja kabelaud.
 
 
 #Progamm töötab põhiliselt ühes aknas
 
-1.	Käivitamisel näeb võimalust skoori suurendamiseks
-2. Saad punkte suurendada nii kaua kuni 21 on käes või oled lõhki läinud
-3. Mängid arvuti vastu. 
+1.	Käivitamisel alusta nuppudega liikumist
+2. Saad mängida sõbraga
 
 #Kasutusjuhend
 1.	Käivita programm 
