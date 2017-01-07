@@ -2,21 +2,20 @@
 
 
 #Projekti kirjeldus
-Projekti sisuks on tavaline kabe ja kabelaud.
+Projekti sisuks on alarmkell, mis äratab inimese heliga üles.
 
 
-#Progamm töötab põhiliselt ühes aknas
 
-1.	Käivitamisel alusta nuppudega liikumist
-2. Saad mängida sõbraga
 
 #Kasutusjuhend
 1.	Käivita programm 
 
-2.	Mängi
+2.	Sisesta ärkamise kellaaeg
 
-3.	Võites võid uuesti alustada
+3.	Ärka 
 
-#GNU Lesser General Public License
+4. Sulge 
 
-https://www.gnu.org/licenses/lgpl-3.0.en.html
+#Free Public License 
+
+https://opensource.org/licenses/FPL-1.0.0
