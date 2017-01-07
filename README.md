@@ -2,7 +2,7 @@
 
 
 #Projekti kirjeldus
-Projekti sisuks on alarmkell, mis äratab inimese heliga üles.
+Projekti sisuks on omamoodi 21 mäng. Saad klikkida, aga lõhki ei tohi minna. 
 
 
 
@@ -10,11 +10,11 @@ Projekti sisuks on alarmkell, mis äratab inimese heliga üles.
 #Kasutusjuhend
 1.	Käivita programm 
 
-2.	Sisesta ärkamise kellaaeg
+2.	Kliki nupul kuni saad. 
 
-3.	Ärka 
+3.	Võitsid või kaotasid, igal juhul saad uuesti alustada. 
 
-4. Sulge 
+
 
 # License 
 
