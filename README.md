@@ -16,6 +16,6 @@ Projekti sisuks on alarmkell, mis äratab inimese heliga üles.
 
 4. Sulge 
 
-#Free Public License 
+# License 
 
-https://opensource.org/licenses/FPL-1.0.0
+https://creativecommons.org/licenses/by-nd/4.0/legalcode
