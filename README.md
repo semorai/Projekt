@@ -2,7 +2,7 @@
 
 
 #Projekti kirjeldus
-Projekti sisuks on omamoodi 21 mäng. Saad klikkida, aga lõhki ei tohi minna. 
+Projekti sisuks on omamoodi 21 mäng. Saad klikkida, aga lõhki ei tohi minna ja puudu ka ei tohi jääda. 
 
 
 
