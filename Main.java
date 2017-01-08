@@ -58,7 +58,7 @@ public class Main extends Application {
                     button0.setText("" + punktid);
 
             }
-            else if (punktid >= 21 ) {
+            else if (punktid >= 22 ) {
 
                 button0.setText("Stop the game!");
                 button0.setOnAction(event1 -> {
